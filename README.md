@@ -11,3 +11,5 @@ All my 42 project achieved so far with grades and links
 | [pipex](https://github.com/AntoineLemarchand/pipex)|***121/100***|Recreating the unix pipe system|
 | [push-swap](https://github.com/AntoineLemarchand/push-swap)|***125/100***|A stack sorting program using a limited set of operation|
 | [minishell](https://github.com/AntoineLemarchand/Minishell)|***101/100***|A mini bash-like shell capable of piping, redirection and with a few builtins|
+| [Philosophers](https://github.com/AntoineLemarchand/philosophers)|***pending***|A 42 adaptation of the philosophers problem|
+| [NetPractice](https://github.com/AntoineLemarchand/NetPractice)|***pending***|Solving several problems of TCP/IP configurations|
