@@ -12,4 +12,5 @@ All my 42 project achieved so far with grades and links
 | [push-swap](https://github.com/AntoineLemarchand/push-swap)|***125/100***|A stack sorting program using a limited set of operation|
 | [minishell](https://github.com/AntoineLemarchand/Minishell)|***101/100***|A mini bash-like shell capable of piping, redirection and with a few builtins|
 | [Philosophers](https://github.com/AntoineLemarchand/philosophers)|***100/100***|A 42 adaptation of the philosophers problem|
-| [NetPractice](https://github.com/AntoineLemarchand/NetPractice)|***pending***|Solving several problems of TCP/IP configurations|
+| [NetPractice](https://github.com/AntoineLemarchand/NetPractice)|***100/100***|Solving several problems of TCP/IP configurations|
+| [CPP42](https://github.com/AntoineLemarchand/cpp42)|***pending***|a serie of exercice to learn C++ and OOP|
