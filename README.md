@@ -13,4 +13,4 @@ All my 42 project achieved so far with grades and links
 | [minishell](https://github.com/AntoineLemarchand/Minishell)|***101/100***|A mini bash-like shell capable of piping, redirection and with a few builtins|
 | [Philosophers](https://github.com/AntoineLemarchand/philosophers)|***100/100***|A 42 adaptation of the philosophers problem|
 | [NetPractice](https://github.com/AntoineLemarchand/NetPractice)|***100/100***|Solving several problems of TCP/IP configurations|
-| [CPP42](https://github.com/AntoineLemarchand/cpp42)|***1/9***|a serie of exercice to learn C++ and OOP|
+| [CPP42](https://github.com/AntoineLemarchand/cpp42)|***1/9 (pending)***|a serie of exercice to learn C++ and OOP|
