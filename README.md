@@ -13,5 +13,5 @@ All my 42 project achieved so far with grades and links
 | [minishell](https://github.com/AntoineLemarchand/Minishell)|[![alemarch's 42 minishell Score](https://badge42.vercel.app/api/v2/cl167flm2000609l6jc2uzqsh/project/2473196)](https://github.com/JaeSeoKim/badge42)|A mini bash-like shell capable of piping, redirection and with a few builtins|
 | [Philosophers](https://github.com/AntoineLemarchand/philosophers)|[![alemarch's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl167flm2000609l6jc2uzqsh/project/2473195)](https://github.com/JaeSeoKim/badge42)|A 42 adaptation of the philosophers problem|
 | [NetPractice](https://github.com/AntoineLemarchand/NetPractice)|[![alemarch's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl167flm2000609l6jc2uzqsh/project/2554524)](https://github.com/JaeSeoKim/badge42)|Solving several problems of TCP/IP configurations|
-| [CPP42](https://github.com/AntoineLemarchand/cpp42)|***4/9 (pending)***|a serie of exercice to learn C++ and OOP|
+| [CPP42](https://github.com/AntoineLemarchand/cpp42)|***5/9 (pending)***|a serie of exercice to learn C++ and OOP|
 | [miniRT](https://github.com/AntoineLemarchand/miniRT)|***WIP***|a serie of exercice to learn C++ and OOP|
